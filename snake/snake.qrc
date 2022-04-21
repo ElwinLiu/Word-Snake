@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/snake">
+        <file>start.png</file>
+        <file>stop.jpg</file>
+        <file>auto.png</file>
+    </qresource>
+</RCC>
